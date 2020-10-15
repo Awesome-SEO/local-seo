@@ -1,6 +1,6 @@
 # Local SEO Resources [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This is a curated list of local SEO case-studies, resources, etc. For contributions please check [this](https://github.com/awesome-seo-tools/local-seo/blob/master/CONTRIBUTIONS.md).
+This is a curated list of local SEO case-studies, resources, etc. For contributions please check [this](https://github.com/awesome-seo/local-seo/blob/master/CONTRIBUTIONS.md).
 
 ## Resources
 
