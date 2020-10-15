@@ -9,4 +9,4 @@ This is a curated list of local SEO case-studies, resources, etc. For contributi
 
 ## Case Studies
 
-For case-studies check the awesome SEO case-studies list](https://github.com/Awesome-SEO/seo-case-studies).
+For case-studies check the awesome [SEO case-studies list](https://github.com/Awesome-SEO/seo-case-studies).
